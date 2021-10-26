@@ -1,0 +1,16 @@
+{
+    "name": "MovingObjectsScripts",
+    "rootNamespace": "",
+    "references": [
+        "GUID:86b9ec79fc7f5bb4b8e61564c844681c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

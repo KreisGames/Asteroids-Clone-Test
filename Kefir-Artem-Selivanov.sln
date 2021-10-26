@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerScripts", "PlayerScripts.csproj", "{71b85bc5-a5c0-0e5f-315c-62969023dfd3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic", "GameLogic.csproj", "{21ec7803-9578-1bb9-8e83-c17fbe95e281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingObjectsScripts", "MovingObjectsScripts.csproj", "{3e991cf0-727b-8597-8af6-681e574ea32e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnemiesScripts", "EnemiesScripts.csproj", "{80c23820-7055-a5de-c3c1-5a7775b5f1d6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{92661897-be1b-e93a-1a18-6f450f760c13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71b85bc5-a5c0-0e5f-315c-62969023dfd3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71b85bc5-a5c0-0e5f-315c-62969023dfd3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21ec7803-9578-1bb9-8e83-c17fbe95e281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21ec7803-9578-1bb9-8e83-c17fbe95e281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3e991cf0-727b-8597-8af6-681e574ea32e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3e991cf0-727b-8597-8af6-681e574ea32e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80c23820-7055-a5de-c3c1-5a7775b5f1d6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80c23820-7055-a5de-c3c1-5a7775b5f1d6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92661897-be1b-e93a-1a18-6f450f760c13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92661897-be1b-e93a-1a18-6f450f760c13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
